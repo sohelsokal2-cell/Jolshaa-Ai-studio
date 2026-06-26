@@ -1469,4 +1469,6 @@ async function startServer() {
   });
 }
 
-startServer();
+startServer().catch(err => {
+  console.error('🔥 CRITICAL: Failed to start the server:', err);
+});
