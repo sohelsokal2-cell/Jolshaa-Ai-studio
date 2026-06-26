@@ -1,0 +1,6 @@
+{
+  "name": "Jolshaa",
+  "description": "A social media web application with user authentication, custom profile pages, and profile editing (Phase 1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
